@@ -1,0 +1,12 @@
+# sum in simple way
+x=10
+y=45
+sum=x+y
+print(sum)
+
+# sum of two no in function way
+def sum(x,y):
+    return(x+y)
+
+add=sum(12,13)
+print(add)
